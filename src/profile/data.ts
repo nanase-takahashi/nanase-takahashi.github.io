@@ -51,7 +51,10 @@ export const PROFILE = {
 
   research: [{ from: '2024.04', to: '現在', title: '先端音情報システム研究室' }] as TimelineItem[],
 
-  work: [{ from: '2022.09', to: '現在', title: '細田千尋研究室', detail: 'アドミニストレイティブ・アシスタント' }] as TimelineItem[],
+  work: [
+    { from: '2022.09', to: '現在', title: '細田千尋研究室', detail: 'アドミニストレイティブ・アシスタント' },
+    { from: '2026.10', to: '現在', title: 'freee株式会社', detail: 'インターン' },
+  ] as TimelineItem[],
 
   publications: [
     {
