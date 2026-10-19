@@ -1,10 +1,10 @@
-# nanase-tohoku-univ.github.io
+# nanase-takahashi.github.io
 
 髙橋那々世（Nanase Takahashi）のプロフィールサイトです。
 
-https://nanase-tohoku-univ.github.io/
+https://nanase-takahashi.github.io/
 
-開くと、修了日（2027年3月）までの日めくりカレンダーが表示されます。ページをめくると毎日変わる演出で残り日数が現れ、下にスクロールすると経歴が表示されます。演出エンジンは [Advent-Calender](https://github.com/Nanase-tohoku-univ/Advent-Calender) のものです。
+開くと、修了日（2027年3月）までの日めくりカレンダーが表示されます。ページをめくると毎日変わる演出で残り日数が現れ、下にスクロールすると経歴が表示されます。演出エンジンは [Advent-Calender](https://github.com/nanase-takahashi/Advent-Calender) のものです。
 
 Vite + TypeScript + Three.js で作っています。
 

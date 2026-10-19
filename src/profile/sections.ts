@@ -97,7 +97,7 @@ export function profileSections(): HTMLElement {
       h(
         'p',
         {},
-        h('a', { href: 'https://github.com/Nanase-tohoku-univ/Advent-Calender', target: '_blank', rel: 'noopener' }, 'Advent-Calender'),
+        h('a', { href: 'https://github.com/nanase-takahashi/Advent-Calender', target: '_blank', rel: 'noopener' }, 'Advent-Calender'),
         ' · ',
         h('a', { href: './THIRD_PARTY_NOTICES.txt', target: '_blank', rel: 'noopener' }, 'Third-party notices'),
       ),

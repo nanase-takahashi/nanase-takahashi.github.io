@@ -81,7 +81,7 @@ export const PROFILE = {
     { label: 'Official E-Mail', note: '〜{{2027年3月}}', kind: 'email', email: ['takahashi.nanase.q6', 'dc.tohoku.ac.jp'] },
     { label: 'Private E-Mail', kind: 'email', email: ['nanase.t0322', 'gmail.com'] },
     { label: 'X (Twitter)', kind: 'link', href: 'https://x.com/natrium_tantal', text: '@natrium_tantal' },
-    { label: 'GitHub', kind: 'link', href: 'https://github.com/Nanase-tohoku-univ', text: 'Nanase-tohoku-univ' },
+    { label: 'GitHub', kind: 'link', href: 'https://github.com/nanase-takahashi', text: 'nanase-takahashi' },
   ] as ContactItem[],
 };
 
